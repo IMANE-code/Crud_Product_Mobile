@@ -1,0 +1,14 @@
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\bin\Debug\netstandard2.0\PRODUIT.deps.json
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\bin\Debug\netstandard2.0\PRODUIT.dll
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\bin\Debug\netstandard2.0\ref\PRODUIT.dll
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\bin\Debug\netstandard2.0\PRODUIT.pdb
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.dll
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\ref\PRODUIT.dll
+C:\Users\Youcode\Desktop\PRODUIT\PRODUIT\PRODUIT\obj\Debug\netstandard2.0\PRODUIT.pdb
